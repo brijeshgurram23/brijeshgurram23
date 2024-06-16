@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Brijesh Gurram and I'm a passionate web developer form solapur</h2>
+<h2 align="left">Hi 👋! My name is Brijesh Gurram and I'm a passionate web developer from solapur</h2>
 
 ###
 
